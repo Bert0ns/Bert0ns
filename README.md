@@ -16,11 +16,13 @@
 
 </div>
 
-🔧 Passionate developer
-💡 Always trying to find smart solutions
-🌱 Continuously learning and growing  
-🎯 Focused on creating many small projects to explore what i study in class
-⚡ Fun fact: If you don't love to refactor your code, consider changing job
+<div>
+🔧 Passionate developer </br>
+💡 Always trying to find smart solutions </br>
+🌱 Continuously learning and growing </br>
+🎯 Focused on creating many small projects to explore what i study in class </br>
+⚡ Fun fact: If you don't love to refactor your code, consider changing job </br>
+</div>
 
 ---
 
@@ -41,7 +43,7 @@
 ### 💬 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bert0ns)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bert0ns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-bertoni-121b912b8)
 
 ---
 
