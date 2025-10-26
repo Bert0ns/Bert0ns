@@ -6,23 +6,32 @@
 
 </div>
 
+<!--
+<div style="display:none;">
+  Huh? what are you doing here lol
+</div>
+-->
+
 ---
 
 ## 🚀 About Me
 
 <div align="center">
 
-<img alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</div>
-
-<div>
-🔧 Passionate developer </br>
-💡 Always trying to find smart solutions </br>
-🌱 Continuously learning and growing </br>
-🎯 Focused on creating many small projects to explore what i study in class </br>
-⚡ Fun fact: If you don't love to refactor your code, consider changing job </br>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p>🔧 Passionate developer</p>
+      <p>💡 Always trying to find smart solutions</p>
+      <p>🌱 Continuously learning and growing</p>
+      <p>🎯 Focused on creating many small projects to explore what i study in class</p>
+      <p>⚡ Fun fact: If you don't love to refactor your code, consider changing job</p>
+    </td>
+    <td valign="top" width="40%">
+      <img alt="Coding" width="300"     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
