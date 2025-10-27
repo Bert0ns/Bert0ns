@@ -54,10 +54,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bert0ns)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-bertoni-121b912b8)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bert0ns&color=blueviolet&style=for-the-badge)
-
-*"First, solve the problem. Then, write the code."* – John Johnson
-
 </div>
