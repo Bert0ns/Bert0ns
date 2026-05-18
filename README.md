@@ -39,9 +39,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-b4gs0emuf-bert0ns-projects.vercel.app/api?username=Bert0ns&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-iwcmfcwc7-bert0ns-projects.vercel.app/api?username=Bert0ns&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-b4gs0emuf-bert0ns-projects.vercel.app/api/top-langs/?username=Bert0ns&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-iwcmfcwc7-bert0ns-projects.vercel.app/api/top-langs/?username=Bert0ns&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
