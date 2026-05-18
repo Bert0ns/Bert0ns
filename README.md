@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>
-      <img alt="Top Languages" width="420" src="https://github-readme-stats-three-green.vercel.app/api/top-langs/?username=Bert0ns&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+      <img alt="Top Languages" width="420" src="https://github-readme-stats-three-green.vercel.app/api/top-langs/?username=Bert0ns&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&hide=Jupyter%20Notebook,HTML,ShaderLab" />
     </td>
     <td>
       <img alt="Activity Graph" width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=Bert0ns&theme=tokyo-night&hide_border=true&cache_seconds=1800" />
