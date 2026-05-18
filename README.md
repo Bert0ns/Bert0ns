@@ -33,15 +33,32 @@
   </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-three-green.vercel.app/api?username=Bert0ns&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-three-green.vercel.app/api/top-langs/?username=Bert0ns&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<table>
+  <tr>
+    <td>
+      <img alt="GitHub Stats" width="420" src="https://github-readme-stats-three-green.vercel.app/api?username=Bert0ns&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+    </td>
+    <td>
+      <img alt="GitHub Streak" width="420" src="https://streak-stats.demolab.com?user=Bert0ns&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Top Languages" width="420" src="https://github-readme-stats-three-green.vercel.app/api/top-langs/?username=Bert0ns&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+    </td>
+    <td>
+      <img alt="Activity Graph" width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=Bert0ns&theme=tokyo-night&hide_border=true&cache_seconds=1800" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
